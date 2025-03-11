@@ -1,4 +1,4 @@
-# Hitori -AI Algorithms
+# Hitori AI Algorithms
 
 This project implements various **AI algorithms** applied to the popular Japanese puzzle game **Hitori**. The algorithms included are:
 
