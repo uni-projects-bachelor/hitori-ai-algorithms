@@ -1,2 +1,15 @@
-# Hitori-SimulatedAnnealing-HillClimbing-Greedy
-Hitori is popular Japanese game in AI algorithms. Various algorithm is implemented on this game such as "simulated annealing", "hill climbing", and "greedy" algorithm. Please check out the project document for more detail and analysis.
+# Hitori -AI Algorithms
+
+This project implements various **AI algorithms** applied to the popular Japanese puzzle game **Hitori**. The algorithms included are:
+
+- **Simulated Annealing**
+- **Hill Climbing**
+- **Greedy Algorithm**
+
+These methods are used to solve the Hitori puzzle and explore problem-solving techniques in AI.
+
+---
+
+*Contributor: [Sepide Bahrami](https://github.com/sepiidebahramii)*
+
+---
